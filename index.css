@@ -163,8 +163,8 @@ nav {
 }
 
 .avatar-ring {
-    width: 165px;
-    height: 165px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
     background: linear-gradient(135deg, var(--accent), var(--accent2));
     padding: 2px;
@@ -189,8 +189,8 @@ nav {
 }
 
 .avatar-inner {
-    width: 156px;
-    height: 156px;
+    width: 152px;
+    height: 152px;
     border-radius: 50%;
     background: var(--bg2);
     overflow: hidden;
